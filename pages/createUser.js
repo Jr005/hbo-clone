@@ -7,7 +7,7 @@ export default function CreateUser() {
 			<div className='create-user'>
 				<div className='create-user__top'>
 					<div className='create-user__logo' />
-					<span className='create-user__title'>Who is Watching</span>
+					<span className='create-user__title'>Who is Watching!</span>
 				</div>
 				<div className='create-user__form'>
 					<div className='create-user__user-box'>
