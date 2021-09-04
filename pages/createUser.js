@@ -22,7 +22,11 @@ export default function CreateUser() {
 							<div className='create-user__colors'>
 								<div
 									className='create-user__color create-user__color--active'
-									style={{}}
+									style={{
+										background: "rgb(2,27,64)",
+										background:
+											"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(119,30,135,1) 100%)",
+									}}
 								></div>
 							</div>
 						</div>
