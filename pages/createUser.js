@@ -28,35 +28,35 @@ export default function CreateUser() {
 								}}
 							/>
 							<div
-								className='create-user__color create-user__color--active'
+								className='create-user__color'
 								style={{
-									background: "rgb(2,27,64)",
+									background: "rgb(0,64,100)",
 									background:
-										"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(119,30,135,1) 100%)",
+										"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(135,134,30,1) 100%)",
 								}}
 							/>
 							<div
-								className='create-user__color create-user__color--active'
+								className='create-user__color'
 								style={{
 									background: "rgb(2,27,64)",
 									background:
-										"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(119,30,135,1) 100%)",
+										"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(30,135,31,1) 100%)",
 								}}
 							/>
 							<div
-								className='create-user__color create-user__color--active'
+								className='create-user__color'
 								style={{
 									background: "rgb(2,27,64)",
 									background:
-										"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(119,30,135,1) 100%)",
+										"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(30,134,135,1) 100%)",
 								}}
 							/>
 							<div
-								className='create-user__color create-user__color--active'
+								className='create-user__color'
 								style={{
 									background: "rgb(2,27,64)",
 									background:
-										"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(119,30,135,1) 100%)",
+										"linear-gradient(135deg, rgba(2,27,64,1) 0%, rgba(135,30,30,1) 100%)",
 								}}
 							/>
 						</div>
