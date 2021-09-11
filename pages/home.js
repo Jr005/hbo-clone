@@ -5,7 +5,7 @@ import MainLayout from "../components/layouts/MainLayout";
 export default function HomeView() {
 	return (
 		<MainLayout>
-			<div>Home</div>
+			<div>Home al;vna;vna;nv;anv</div>
 		</MainLayout>
 	);
 }
